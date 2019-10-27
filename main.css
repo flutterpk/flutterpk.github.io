@@ -255,7 +255,7 @@ blockquote:before {
   line-height: 0px;
   margin: 0;
   color: #c2c2c2;
-  color: #5b4f96;
+  color: #00579e;
   font-family: Arial, Sans-serif;
   position: absolute;
   top: 4.4rem;
@@ -405,7 +405,7 @@ ul.disc li::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #5b4f96;
+  background: #00579e;
   position: absolute;
   left: -16px;
   top: 11px;
@@ -540,7 +540,7 @@ form,
 
 .pace .pace-progress {
   z-index: 900;
-  background: #5b4f96;
+  background: #00579e;
   width: 100%;
   height: 4px;
   position: fixed;
@@ -591,7 +591,7 @@ form,
 
 #loader > div {
   content: "";
-  background: #5b4f96;
+  background: #00579e;
   width: 6px;
   height: 6px;
   position: absolute;
@@ -1731,7 +1731,7 @@ input::-moz-focus-inner {
 
 .header-logo img {
   width: 130px;
-  height: 36px;
+  height: 50px;
 }
 
 
@@ -2103,7 +2103,7 @@ input::-moz-focus-inner {
   content: "";
   height: 2px;
   width: 8rem;
-  background-color: #5b4f96;
+  background-color: #00579e;
   position: absolute;
   left: 8px;
   top: 0;
@@ -3451,7 +3451,7 @@ html.no-csstransitions .home-content__main {
 
 .item-plan__price {
   font-family: "Chivo", sans-serif;
-  font-size: 7.4rem;
+  font-size: 5.5rem;
   line-height: 1.081;
   font-weight: 600;
   color: #000000;
@@ -3487,7 +3487,7 @@ html.no-csstransitions .home-content__main {
   font-size: 1.2rem;
   font-weight: 900;
   display: inline-block;
-  color: #5b4f96;
+  color: #00579e;
   margin-right: 18px;
 }
 
